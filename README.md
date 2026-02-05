@@ -5,6 +5,8 @@ It provides an easy and interactive way to listen to text content, improving acc
 
 🗣️ Let’s speak :- [Convert your text into voice instantly](https://kirankv8641.github.io/Text-To-Speech-Converter/)
 
+---
+
 ## ⭐ Features
 
 Text to Speech Conversion: Convert typed text into spoken audio.
@@ -17,6 +19,8 @@ User-Friendly UI: Clean and simple interface for easy interaction.
 
 Responsive Design: Works smoothly on mobile, tablet, and desktop.
 
+---
+
 ## 📁 Project Structure
 ~~~
 Text-To-Speech-Converter/
@@ -26,6 +30,9 @@ Text-To-Speech-Converter/
 ├─ script.js     # JavaScript logic using Web Speech API
 └─ README.md     # Project documentation
 ~~~
+
+---
+
 ## 🛠️ Technologies Used
 
 HTML5 – Structure of the web application
@@ -35,6 +42,8 @@ CSS3 – Styling and responsive design
 JavaScript (Vanilla JS) – Text-to-speech functionality
 
 Web Speech API (SpeechSynthesis) – Voice generation
+
+---
 
 ## ▶️ Usage
 
@@ -48,7 +57,7 @@ Click the Speak button.
 
 Listen to the generated speech 🔊
 
-
+---
 
 ## 🚀 Future Improvements
 
@@ -61,6 +70,8 @@ Support multiple languages
 Improve UI animations
 
 Add text length validation
+
+---
 
 ## 👤 Author
 
